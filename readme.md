@@ -1,5 +1,6 @@
 **Ссылки на доп материалы:**
-_____
+=============
+
 **Полезный сайт со статьями и тестами по python:**\
 https://realpython.com/
 
@@ -11,11 +12,13 @@ https://docs.python.org/3/library/index.html
 
 _____
 ***Методички:***
+-------
 
 Урок 1 - Основы ООП:\
 https://github.com/PonomaryovVladyslav/PythonCources/blob/master/lesson15.md
 
 _____
-***Презентации:***\
+***Презентации:***
+---------
 Урок 1 - Основы ООП:\
 https://docs.google.com/presentation/d/1bc9TTF5eTucukXu8qeJEqixIi329wKDt2RkFtMl3BT4/edit?usp=sharing
