@@ -64,7 +64,7 @@ class Child(Parent):
         print('Init time:', self.init_time)
 
     def __str__(self):
-        return f'Child object: {self.name} | {self.unique_id}'
+        return f'{self.__class__.__name__}: {self.name} | {self.unique_id}'
 
     def __del__(self):
         # self.conn.close() ! do that
