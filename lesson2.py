@@ -85,33 +85,33 @@ class Child(Parent):
 if __name__ == '__main__':
     child_1 = Child(unique_id=12345, **{"name": 'Ivan', "age": 1})  # Child.__new__(**params).__init(**params)
     child_2 = Child(unique_id=42, name='Anton', age=15)
-    print(child_1.name, child_1.age, child_1.unique_id)
+    # print(child_1.name, child_1.age, child_1.unique_id)
 
     # move('kitchen') -> I'm moving to the kitchen
     # move('kitchen') -> I'm moving to the kitchen, but slowly :(
 
-    print(child_1.move('bathroom'))
+    # print(child_1.move('bathroom'))
     del child_1
     # sleep(5)
-    print(child_2)
-    print(child_2(12, 7))
+    # print(child_2)
+    # print(child_2(12, 7))
     parent_1 = Parent('Grisha', 25)
     parent_2 = Parent('Oleg', 34)
 
-    print(parent_1 < parent_2)
-    print(parent_1 <= parent_2)
-    print(parent_1 > parent_2)
-    print(parent_1 >= parent_2)
-    print(parent_1 == parent_2)
-    print(parent_1 != parent_2)
+    # print(parent_1 < parent_2)
+    # print(parent_1 <= parent_2)
+    # print(parent_1 > parent_2)
+    # print(parent_1 >= parent_2)
+    # print(parent_1 == parent_2)
+    # print(parent_1 != parent_2)
 
     # print(parent_1.unique_id)
-    print(parent_1.unique_id)
-    print(hasattr(parent_1, 'unique_id'))
-    print(hasattr(parent_1, 'move'))
-    print(getattr(parent_1, 'unique_id', f'{parent_1.name} {parent_1.age}'))
-    print(setattr(parent_1, 'unique_id', 505))
-    print(parent_1.unique_id)
+    # print(parent_1.unique_id)
+    # print(hasattr(parent_1, 'unique_id'))
+    # print(hasattr(parent_1, 'move'))
+    # print(getattr(parent_1, 'unique_id', f'{parent_1.name} {parent_1.age}'))
+    # print(setattr(parent_1, 'unique_id', 505))
+    # print(parent_1.unique_id)
 
     some_dict = {'a': 1, 'b': 2}
     print(some_dict.get('c', 42))
