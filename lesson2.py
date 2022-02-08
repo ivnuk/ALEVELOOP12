@@ -11,8 +11,14 @@ http(s) get request -> web server (nginx, apache) -> django app
 django app -> (middleware might change request) view (might change response also) -> return response (html) -> user see your homepage
 """
 
-from datetime import datetime
-from time import sleep
+# import sys, os -> don't do that
+
+import os
+import sys
+
+from datetime import datetime, date, timedelta
+
+# import datetime as dt
 
 
 class Parent:
@@ -59,8 +65,8 @@ class Child(Parent):
 
     def __init__(self, unique_id, *args, **kwargs):
         self.init_time = datetime.now()
-        super().__init__(*args, **kwargs)
         self.unique_id = unique_id
+        super().__init__(*args, **kwargs)
         print('Init time:', self.init_time)
 
     def __str__(self):
