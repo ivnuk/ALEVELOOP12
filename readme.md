@@ -19,6 +19,8 @@ https://www.python.org/dev/peps/pep-0008/
 **Другие PEP'ы:**\
 https://www.python.org/dev/peps/
 
+**Ошибки и Исключения:**\
+https://docs.python.org/3/tutorial/errors.html
 _____
 ***Методички:***
 -------
