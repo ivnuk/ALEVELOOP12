@@ -53,5 +53,5 @@ https://docs.google.com/presentation/d/1Ld2GC1FZZeXGIMPA8YP2RWYumARobB3pFSUXsQqo
 Урок 3 - PEP8, Imports, Code organisation:\
 https://docs.google.com/presentation/d/1KglMveIHjW6VeqvKEMeTzzHBRZf0200_0EDBaYD7JrY/edit?usp=sharing
 
-Урок 4 - Exception:\
+Урок 4 - Exceptions:\
 https://docs.google.com/presentation/d/1wOFzxO-Ybv01WxFcqCP8TfREc8-zTLA_sxuy93Ld6ok/edit?usp=sharing
