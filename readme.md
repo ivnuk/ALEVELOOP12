@@ -32,6 +32,8 @@ https://github.com/PonomaryovVladyslav/PythonCources/blob/master/lesson16.md
 Урок 3 - PEP8, Imports, Code organisation:\
 https://github.com/PonomaryovVladyslav/PythonCources/blob/master/lesson17.md
 
+Урок 4 - Exceptions
+
 _____
 ***Презентации:***
 ---------
