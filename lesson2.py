@@ -47,10 +47,12 @@ class Parent:
     def __ne__(self, other):
         return self.age != other.age
 
-    # def __getattribute__(self, item):
-    #     if item == 'name':
-    #         raise AttributeError('You can\'t know the name')
-    #     return super().__getattribute__(item)
+    def __getattribute__(self, item):
+        # if hasattr(self, item):
+        #     return self.item
+        if item == 'name':
+            raise AttributeError('You can\'t know the name')
+        return super().__getattribute__(item)
 
     def __getattr__(self, item):
         return item
@@ -74,7 +76,8 @@ class Child(Parent):
 
     def __del__(self):
         # self.conn.close() ! do that
-        # del self ! don't do that
+        # del self
+        #! don't do that
         # garb col -> obj -> del obj -> __del__ -> del obj -> __del__ -> ...
         # logger.log(some info)
         print(f'{self.name} | Destroy time:', datetime.now())
