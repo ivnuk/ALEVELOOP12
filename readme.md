@@ -21,6 +21,10 @@ https://www.python.org/dev/peps/
 
 **Ошибки и Исключения:**\
 https://docs.python.org/3/tutorial/errors.html
+
+**Режимы чтения файлов:**\
+https://www.programiz.com/python-programming/file-operation
+
 _____
 ***Методички:***
 -------
