@@ -41,6 +41,10 @@ https://github.com/PonomaryovVladyslav/PythonCources/blob/master/lesson17.md
 Урок 4 - Exceptions
 https://github.com/PonomaryovVladyslav/PythonCources/blob/master/lesson18.md
 
+Урок 5 - Декораторы:\
+https://github.com/PonomaryovVladyslav/PythonCources/blob/master/lesson19.md
+
+
 _____
 ***Презентации:***
 ---------
@@ -55,3 +59,6 @@ https://docs.google.com/presentation/d/1KglMveIHjW6VeqvKEMeTzzHBRZf0200_0EDBaYD7
 
 Урок 4 - Exceptions:\
 https://docs.google.com/presentation/d/1wOFzxO-Ybv01WxFcqCP8TfREc8-zTLA_sxuy93Ld6ok/edit?usp=sharing
+
+Урок 5 - Декораторы:\
+https://docs.google.com/presentation/d/1dwsFEwUn8DWnY9JALLaCYCTHV4c9-Qbpr0k7uglxyuo/edit?usp=sharing
