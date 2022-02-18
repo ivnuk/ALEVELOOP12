@@ -44,6 +44,9 @@ https://github.com/PonomaryovVladyslav/PythonCources/blob/master/lesson18.md
 Урок 5 - Декораторы:\
 https://github.com/PonomaryovVladyslav/PythonCources/blob/master/lesson19.md
 
+Урок 6 - Тесирование:\
+https://github.com/PonomaryovVladyslav/PythonCources/blob/master/lesson20.md
+
 
 _____
 ***Презентации:***
